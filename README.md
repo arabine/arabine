@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ⚓ Bonjour à tous,
+# ⚓ Bonjour à tous
 
 Ceci est mon compte principal de développement, faisant office de portfolio. Embarquez pour un petit tour d'horizon !
 
@@ -26,5 +26,8 @@ OpenStoryTeller est un projet de création de boîte à histoire libre, en essay
 - Projet contenant les dépôts : https://github.com/OpenStoryTeller
 - Page projet Hackaday : https://hackaday.io/project/175210-openstoryteller
 
+
+
+🏖️ 🍹 🌊 🏊 🚤 🚢 🛥️ 🪢 🏝️ 🛳️  ⛴️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arabine&theme=shades-of-purple&show_icons=true)
