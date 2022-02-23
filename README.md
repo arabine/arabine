@@ -33,14 +33,16 @@ D'autres logiciels passés ou récents qui me permettent de valider des concepts
 
 ![img](title_projets_electroniques.png)
 
-## Une boîte à histoires pour les enfants
+Une boîte à histoires pour les enfants
+======================================
 
 OpenStoryTeller est un projet de boîte à histoires libre pour enfants, en essayant d'utiliser de vieilles cartes de développement qui traînent dans les tiroirs. Nous visons ici la **maintenance** de l'appareil et l'utilisation de composants **faciles à trouver** car comme le savent les parents, si la boîte à histoire tombe en panne c'est la cata !
 
 - Projet contenant les dépôts : https://github.com/OpenStoryTeller
 - Page projet Hackaday : https://hackaday.io/project/175210-openstoryteller
 
-## Autres projets à venir
+Autres projets à venir
+=======================
 
 D'autres projets sont en cours de réflexion :
 
@@ -52,7 +54,8 @@ D'autres projets sont en cours de réflexion :
 
 Je tente de **redonner** ce que j'ai acquis. Une des façons est de **partager** mon code, je le fais avec mon dépôt Github, mais également par des écrits.
 
-## Un blog
+Un blog
+=======================
 
 Mon site institutionnel est https://d8s.fr, j'aime y partager mes connaissances car j'ai beaucoup appris grâce aux autres :
 
@@ -62,14 +65,16 @@ Mon site institutionnel est https://d8s.fr, j'aime y partager mes connaissances 
 
 Vous trouverez donc sur mon site des articles gratuits.
 
-## Des livres
+Des livres
+=======================
 
 Je bosse actuellement sur **deux livres libres** qui auront peut-être une version papier physique.
 
 - Un livre sur le développement embarqué, assez orienté conseils et bonnes pratiques avec des exemples de code concrets sortis de mes expériences professionnelles
 - Un livre sur mon expérience de freelance, avec là aussi quelques conseils pratiques, des anecdotes et le récit de mon parcours
 
-## Des formations
+Des formations
+=======================
 
 Je travaille également sur l'élaboration de **projets concrets** qui seront accessibles via des formations payantes. Une bonne façon de me supporter !
 
