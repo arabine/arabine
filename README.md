@@ -6,7 +6,7 @@ My name is Anthony Rabine, I am a freelance developer in C/C++ in the following 
 - Sometimes I code front-end/backend application using Vue/Node.js (mainly industrial stuff like IoT dashboards)
 
 YOU CAN HIRE ME!
-
+[![anthonyr4 — Codeur.com](https://api.codeur.com/widgets/badge.svg?k=2wn2ZDWjraGiAHS-)](https://www.codeur.com/-anthonyr4)
 
 <table><tr>
   
