@@ -1,6 +1,6 @@
 # Quick intro
 
-My name is Anthony Rabine, I am a freelance developer in C/C++ in the following areas:
+My name is Anthony Rabine, I am a C/C++ freelance developer in the following areas:
 - Embedded (microcontrollers, Rasperry PI)
 - PC/Mobile software (mainly industrial) using Qt/QML, SDL2
 - Sometimes I code front-end/backend application using Vue/Node.js (mainly industrial stuff like IoT dashboards)
