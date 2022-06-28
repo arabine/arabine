@@ -14,7 +14,7 @@ YOU CAN HIRE ME!
   
 ### 🙋 Many Faces
 
-- [My blog](hhttps://www.d8s.eu/blog/)
+- [My blog](https://www.d8s.eu/blog/)
 - [My CV](https://www.rabine.fr/)
 
 </td>
